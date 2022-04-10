@@ -1,10 +1,10 @@
 # Some Utilities for the Workshop of Cities Skylines
 
-[中文](README_CN.md)
+[🇨🇳 中文](README_CN.md)
 
-**More features are coming...**
+**🚧 More features are coming...**
 
-> Make sure that you have already logged in first!
+> ⚠️ Make sure that you have already logged in first!
 
 ## One-key for subscribing and adding it into a collection
 
